@@ -1,7 +1,7 @@
 ### Hi, I'm Andre an IT Professional 
 https://github.com/AndreRobinsonCC/AndreRobinsonCC/edit/main/README.md
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/AndreRobinsonCC/osticket-prereqs)
