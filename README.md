@@ -11,7 +11,7 @@ https://github.com/AndreRobinsonCC/AndreRobinsonCC/edit/main/README.md
   - [Configuring Active Directory within Azure VMs](https://github.com//AndreRobinsonCC/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com//AndreRobinsonCC/azure-network-protocols)
 
-<h2> Connect with me:</h2> arob2344@yahoo.com 
+<h2> Connect with me:</h2>  
 
 
 [linkedin]: 
@@ -19,6 +19,6 @@ https://github.com/AndreRobinsonCC/AndreRobinsonCC/edit/main/README.md
 
 -  I’m currently working on Course Careers (Cyber Security Course, and Azure 900 Fundamentals)
 -  I’m currently learning Course Careers (Cyber Security Course, and Azure 900 Fundamentals)
--  How to reach me: ...
+-  How to reach me: arob2344@yahoo.com
 -  I'm currently following CyberWire Daily Podcast, Darknet Diaries Podcast
--  How to reach me: ...
+
