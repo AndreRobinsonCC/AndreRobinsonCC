@@ -14,7 +14,7 @@ https://github.com/AndreRobinsonCC/AndreRobinsonCC/edit/main/README.md
 <h2> Connect with me:</h2>  
 
 
-[linkedin]: 
+[linkedin]https://www.linkedin.com/in/andre-robinson-94b06873/
 
 
 -  I’m currently working on Course Careers (Cyber Security Course, and Azure 900 Fundamentals)
