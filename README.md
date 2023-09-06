@@ -19,6 +19,6 @@ https://github.com/AndreRobinsonCC/AndreRobinsonCC/edit/main/README.md
 
 -  I’m currently working on Course Careers (Cyber Security Course, and Azure 900 Fundamentals)
 -  I’m currently learning Course Careers (Cyber Security Course, and Azure 900 Fundamentals)
--  How to reach me: andr.k.robinson7@gmail.com
+-  How to reach me: andre.k.robinson7@gmail.com
 -  I'm currently following CyberWire Daily Podcast, Darknet Diaries Podcast
 
