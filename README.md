@@ -17,8 +17,8 @@ https://github.com/AndreRobinsonCC/AndreRobinsonCC/edit/main/README.md
 [linkedin]https://www.linkedin.com/in/andre-robinson-94b06873/
 
 [Course Careers]https://profile.coursecareers.com/andre.robinson
--  I’m currently working on Course Careers (Cyber Security Course, and Azure 900 Fundamentals)
--  I’m currently learning Course Careers (Cyber Security Course, and Azure 900 Fundamentals)
+-  I’m currently working on Leveld Careers (Cyber Security Course, and Azure 900 Fundamentals)
+-  I’m currently learning Leveld Careers (Cyber Security Course, and Azure 900 Fundamentals)
 -  How to reach me: andre.k.robinson7@gmail.com
 -  I'm currently following CyberWire Daily Podcast, Darknet Diaries Podcast
 
